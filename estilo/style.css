@@ -2,12 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 
-@import url('https://fonts.googleapis.com/css2? family= Courgette & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;;
-    --fonte3: 'Courgette', cursive;
+    --fonte3: 'Itim', cursive;
     --cor01: black;
     --cor02: rgba(0, 0, 0, 0.651);
 }
